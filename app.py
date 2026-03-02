@@ -366,9 +366,9 @@ PyTorch · Streamlit · scikit-learn · NASA CMAPSS · Grounded AI
 
     st.divider()
     st.markdown("""
-**Source code:** Available on [GitHub](https://github.com/royabes)
+**Source code:** [GitHub — royabes/equipment-rul](https://github.com/royabes/equipment-rul)
 
-**Article:** Predicting Equipment Failure in Oil & Gas with LSTMs — coming soon on Medium
+**Article:** [Predicting Equipment Failure in Oil & Gas Before It Happens](https://royabes.com/writing/predicting-equipment-failure-oil-gas-lstm)
 
 **Contact:** [royabes.com](https://royabes.com)
     """)
