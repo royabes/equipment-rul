@@ -195,7 +195,7 @@ on NASA's CMAPSS turbofan dataset.
         """)
         st.divider()
         st.markdown("""
-Built by [Roy Abes](https://royabes.com) · [Grounded AI](https://medium.com/@royabes)
+Built by [Roy Abes](https://royabes.com)
         """)
 
 
@@ -368,7 +368,7 @@ PyTorch · Streamlit · scikit-learn · NASA CMAPSS · Grounded AI
     st.markdown("""
 **Source code:** Available on [GitHub](https://github.com/royabes)
 
-**Article:** [Predicting Equipment Failure in Oil & Gas with Transformers](https://medium.com/@royabes) — Grounded AI
+**Article:** Predicting Equipment Failure in Oil & Gas with LSTMs — coming soon on Medium
 
 **Contact:** [royabes.com](https://royabes.com)
     """)
